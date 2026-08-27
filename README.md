@@ -37,7 +37,6 @@ Voce ira dar o play e o jogo começara a atirar para os montros, e assim os nive
 
 | Ação    | Controle |
 |---|---  |
-
 | Mover   | W, A, S, D ou setas |
 | Mirar   | Mouse |
 | Impulso | Espaço |
